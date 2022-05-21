@@ -6,7 +6,7 @@ const doc = {
     description: "Description",
   },
   host: "igeekb.herokuapp.com",
-  schemes: ["http", "https"],
+  schemes: ["http"],
   tags: [
     {
       name: "Accounts",
