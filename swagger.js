@@ -5,8 +5,8 @@ const doc = {
     title: "My API",
     description: "Description",
   },
-  host: "localhost:8080",
-  schemes: ["http"],
+  host: "igeekb.herokuapp.com",
+  schemes: ["http", "https"],
   tags: [
     {
       name: "Accounts",
